@@ -1,0 +1,155 @@
+{
+  "restaurant": {
+    "name": "Filthy Vegan",
+    "address": "Rua Peixoto Gomide, 552, Paraíso, São Paulo",
+    "description": "Vegan nunca teve esse sabor. Hambúrgueres, acompanhamentos e bebidas 100% veganos.",
+    "currency": "BRL",
+    "prep_time_minutes": 15,
+    "allergens_url": "www.filthyvegan.com.br/alergenos",
+    "agent": {
+      "name": "Duda",
+      "greeting_pt": "Olá, bem-vindo ao Filthy Vegan! Meu nome é Duda. Pode me dizer seu nome, por favor?"
+    }
+  },
+  "categories": [
+    {
+      "name_pt": "Hambúrgueres",
+      "items": [
+        {
+          "id": "BURGER-001",
+          "name_pt": "Filthy Onion",
+          "description_pt": "Dois hambúrgueres veganos grelhados com queijo vegano, 2 anéis de cebola crocantes, pepinos em conserva e nosso molho especial vegano num pão macio.",
+          "price": 72.90
+        },
+        {
+          "id": "BURGER-002",
+          "name_pt": "Double Filthy",
+          "description_pt": "Dois hambúrgueres veganos smash com queijo cheddar vegano, cebola caramelizada, picles, alface, ketchup e nosso molho especial vegano.",
+          "price": 72.90
+        },
+        {
+          "id": "BURGER-003",
+          "name_pt": "Slaw Filthy",
+          "description_pt": "Frango vegano crocante com coleslaw cremoso vegano, maionese vegana e alface numa macia pão vegano.",
+          "price": 68.90
+        },
+        {
+          "id": "BURGER-004",
+          "name_pt": "Guaca Filthy",
+          "description_pt": "Frango vegano crocante com guacamole, bacon vegano defumado, queijo vegano derretido, alface e sriracha num pão vegano macio.",
+          "price": 74.90
+        }
+      ]
+    },
+    {
+      "name_pt": "Combo",
+      "items": [
+        {
+          "id": "MEAL-001",
+          "name_pt": "Combo Individual",
+          "description_pt": "Escolha um hambúrguer, um acompanhamento e um molho. Adicione uma bebida.",
+          "price": 89.90
+        }
+      ]
+    },
+    {
+      "name_pt": "Acompanhamentos",
+      "items": [
+        {
+          "id": "SIDE-001",
+          "name_pt": "Big Filthy Fries",
+          "description_pt": "Batatas waffle crocantes com molho de queijo vegano, bacon vegano crocante, cebolas fritas e jalapeños.",
+          "price": 42.90
+        },
+        {
+          "id": "SIDE-002",
+          "name_pt": "Filthy Cauli Bites",
+          "description_pt": "Bolinhos de couve-flor dourados, marinados e fritos na perfeição. Leves, crocantes e feitos para mergulhar no molho.",
+          "price": 37.90
+        },
+        {
+          "id": "SIDE-003",
+          "name_pt": "Sweet Filthy Fries",
+          "description_pt": "Batata-doce frita, crocante por fora e macia por dentro, perfeita para mergulhar no molho.",
+          "price": 29.90
+        },
+        {
+          "id": "SIDE-004",
+          "name_pt": "Onion Rings",
+          "description_pt": "Oito anéis de cebola dourados e crocantes. Leves, salgados e feitos para mergulhar no molho BBQ.",
+          "price": 24.90
+        },
+        {
+          "id": "SIDE-005",
+          "name_pt": "Waffle Waffles",
+          "description_pt": "Batatas fritas corte waffle, douradas e crocantes. Perfeitas para mergulhar ou comer direto da caixa.",
+          "price": 25.90
+        }
+      ]
+    },
+    {
+      "name_pt": "Molhos",
+      "items": [
+        {
+          "id": "SAUCE-001",
+          "name_pt": "Sriracha Filthy Mayo",
+          "description_pt": "Maionese vegana com sriracha para um molho cremoso com toque picante.",
+          "price": 9.90
+        },
+        {
+          "id": "SAUCE-002",
+          "name_pt": "Maionese Vegana",
+          "description_pt": "Maionese vegana cremosa e sem ovos. O molho perfeito para acompanhar qualquer item.",
+          "price": 6.90
+        },
+        {
+          "id": "SAUCE-003",
+          "name_pt": "Molho BBQ",
+          "description_pt": "Doce, defumado e ousado. Sabor clássico de churrasco 100% vegano.",
+          "price": 9.90
+        },
+        {
+          "id": "SAUCE-004",
+          "name_pt": "Ketchup Clássico",
+          "description_pt": "Sem complicações — apenas o clássico ketchup de tomate que você conhece e ama.",
+          "price": 6.90
+        }
+      ]
+    },
+    {
+      "name_pt": "Bebidas",
+      "items": [
+        {
+          "id": "DRINK-001",
+          "name_pt": "Coca-Cola 350ml",
+          "description_pt": "O clássico. Uma lata de 350ml com bastante sabor.",
+          "price": 8.90
+        },
+        {
+          "id": "DRINK-002",
+          "name_pt": "Coca-Cola Zero 350ml",
+          "description_pt": "Todo o sabor, zero açúcar. Uma lata de 350ml.",
+          "price": 8.90
+        },
+        {
+          "id": "DRINK-003",
+          "name_pt": "Fanta Laranja 350ml",
+          "description_pt": "Refrescante e cítrico. Uma lata de 350ml.",
+          "price": 8.90
+        },
+        {
+          "id": "DRINK-004",
+          "name_pt": "Guaraná Antarctica 350ml",
+          "description_pt": "O guaraná mais querido do Brasil. Uma lata de 350ml.",
+          "price": 8.90
+        },
+        {
+          "id": "DRINK-005",
+          "name_pt": "Água sem gás 500ml",
+          "description_pt": "Água mineral sem gás, 500ml.",
+          "price": 5.90
+        }
+      ]
+    }
+  ]
+}
